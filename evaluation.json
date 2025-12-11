@@ -1,51 +1,32 @@
 {
   "relevance": {
-    "relevance_score": 0.808599591255188,
-    "context_support_score": 0.7548631429672241,
+    "relevance_score": 0.7309215068817139,
+    "context_support_score": 0.748793363571167,
     "top_contexts": [
       {
         "index": 0,
-        "similarity": 0.8822891712188721
+        "similarity": 0.8918329477310181
       },
       {
         "index": 1,
-        "similarity": 0.6274370551109314
+        "similarity": 0.6057538390159607
       }
     ],
     "keywords_extracted": [
-      "Who",
-      "the CEO",
-      "Tesla"
+      "the main benefits",
+      "solar energy",
+      "What"
     ],
-    "completeness_score": 0.6666666666666666
+    "completeness_score": 0.3333333333333333
   },
   "hallucination": {
-    "entities_found": [
-      {
-        "text": "Elon Musk",
-        "label": "PERSON"
-      },
-      {
-        "text": "Tesla",
-        "label": "ORG"
-      }
-    ],
+    "entities_found": [],
     "unsupported_entities": [],
-    "hallucination_rate": 0.0,
-    "support_map": {
-      "Elon Musk": {
-        "supported": true,
-        "method": "literal"
-      },
-      "Tesla": {
-        "supported": true,
-        "method": "literal"
-      }
-    }
+    "hallucination_rate": 0.0
   },
-  "composite_score": 0.7832321127255757,
+  "composite_score": 0.6836732784907023,
   "metadata": {
     "num_contexts": 2
   },
-  "runtime_ms": 247.56813049316406
+  "runtime_ms": 243.51215362548828
 }
