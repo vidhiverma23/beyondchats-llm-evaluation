@@ -1,0 +1,6 @@
+{
+  "messages": [
+    { "role": "user", "content": "Explain photosynthesis in simple terms." },
+    { "role": "assistant", "content": "Photosynthesis is how plants make food from sunlight using chlorophyll." }
+  ]
+}
