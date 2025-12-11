@@ -1,0 +1,12 @@
+{
+  "contexts": [
+    {
+      "id": "c1",
+      "text": "Solar energy is a renewable resource that reduces environmental impact. It can lower electricity bills due to decreased reliance on grid power."
+    },
+    {
+      "id": "c2",
+      "text": "Solar panels generally require very little maintenance as they have no moving parts and can last for decades."
+    }
+  ]
+}

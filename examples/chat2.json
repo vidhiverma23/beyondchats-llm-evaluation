@@ -1,0 +1,6 @@
+{
+  "messages": [
+    { "role": "user", "content": "What are the main benefits of solar energy?" },
+    { "role": "assistant", "content": "Solar energy reduces electricity bills, decreases carbon footprint, and requires low maintenance." }
+  ]
+}
